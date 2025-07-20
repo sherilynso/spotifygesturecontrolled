@@ -119,8 +119,8 @@ While the implementation uses computer vision, the **Fast Fourier Transform (FFT
 Although FFT isn't directly coded in this version, understanding it is crucial to improving detection in noisy video input environments.
 
 ## Group Members
-Sherilyn Abarracoso
-Romeo Mojares Jr.
+* Sherilyn Abarracoso
+* Romeo Mojares Jr.
 
 ## References
 
