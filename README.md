@@ -29,7 +29,7 @@ The core of the system lies in **computer vision** and **signal processing** pri
 * **Fast Fourier Transform (FFT)** supports understanding motion frequency (slow/fast movements)
 * Discusses theoretical application of signal analysis in visual inputs
 
-### 🖥Simple UI & Feedback
+### Simple UI & Feedback
 
 * Terminal logs current gesture detected
 * Visual feedback via OpenCV window with bounding/landmark overlays
@@ -52,7 +52,7 @@ The core of the system lies in **computer vision** and **signal processing** pri
 
 ---
 
-## 📦 Requirements
+## Requirements
 
 * Python 3.8.10/3.9
 * OpenCV
@@ -79,7 +79,7 @@ pip install -r requirements.txt
 
 ---
 
-## 🛠️ Usage
+## 🛠Usage
 
 ```bash
 python3 main.py
@@ -96,7 +96,7 @@ The system will:
 
 ---
 
-## 🎥 Demo Preview
+## Demo Preview
 
 | Open Palm – Play/Pause   | Volume Pinch Gesture        |
 | ------------------------ | --------------------------- |
@@ -132,7 +132,7 @@ Although FFT isn't directly coded in this version, understanding it is crucial t
 
 ---
 
-## 📄 License
+## License
 
 This project is licensed under the **MIT License**.
 © 2025 YourName
