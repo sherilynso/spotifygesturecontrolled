@@ -1,5 +1,5 @@
 
-## Real-Time Spotify Control with Hand Gestures using Raspberry Pi & MediaPipe
+## Gesture-Controlled Spotify Media Player Using Real-Time Video Signal Processing on Raspberry Pi 
 
 ### Overview
 
