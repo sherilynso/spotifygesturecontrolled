@@ -16,7 +16,8 @@ The core of the system lies in **computer vision** and **signal processing** pri
 * Open Palm → Play / Pause
 * Fist → Stop
 * Pinch Gesture → Volume Control
-* Swipe Left / Right → Next / Previous Track
+* 3 Fingers → Previous Track
+* 4 Fingers → Next Track
 
 ### Real-Time Hand Tracking
 
