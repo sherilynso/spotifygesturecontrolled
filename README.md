@@ -118,7 +118,9 @@ While the implementation uses computer vision, the **Fast Fourier Transform (FFT
 
 Although FFT isn't directly coded in this version, understanding it is crucial to improving detection in noisy video input environments.
 
----
+## Group Members
+Sherilyn Abarracoso
+Romeo Mojares Jr.
 
 ## References
 
@@ -130,7 +132,7 @@ Although FFT isn't directly coded in this version, understanding it is crucial t
 * Gautam, A. (n.d.). *Hand Recognition using OpenCV*. [https://gautamaditee.medium.com/hand-recognition-using-opencv-a7b109941c88](https://gautamaditee.medium.com/hand-recognition-using-opencv-a7b109941c88)
 * PyAutoGUI Docs: [https://pyautogui.readthedocs.io](https://pyautogui.readthedocs.io)
 
----
+
 
 ## License
 
