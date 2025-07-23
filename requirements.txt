@@ -1,5 +1,5 @@
 cvzone
 opencv-python
 pyautogui
-python 3.8.10 or 3,9
+python 3.8 or 3.9
 spotify 
