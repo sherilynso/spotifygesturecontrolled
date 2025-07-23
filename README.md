@@ -48,7 +48,7 @@ The core of the system lies in **computer vision** and **signal processing** pri
 | Signal Techniques    | FFT (Fast Fourier Transform) for motion insights |
 | Accuracy             | 85–90% (Static), \~80–85% (Dynamic Gestures)     |
 | Latency              | \~10–15 ms depending on gesture & light          |
-| Programming Language | Python 3.8.10 or 3.9                                     |
+| Programming Language | Python 3.8 or 3.9                                     |
 
 ---
 
@@ -62,7 +62,7 @@ The core of the system lies in **computer vision** and **signal processing** pri
 * USB Webcam
 
 ```bash
-pip install opencv-python mediapipe pyautogui
+pip install opencv-python cvzone pyautogui
 ```
 
 ---
@@ -120,7 +120,9 @@ Although FFT isn't directly coded in this version, understanding it is crucial t
 
 ## Group Members
 * Sherilyn Abarracoso
+* Venjie Balaoro
 * Romeo Mojares Jr.
+* Joshua Negapatan
 
 ## References
 
